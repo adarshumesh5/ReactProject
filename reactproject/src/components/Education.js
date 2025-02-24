@@ -1,8 +1,12 @@
 import React from 'react';
 import './Section.css';
 
+
+
 const Education = () => {
   return (
+   
+
     <section className="section education">
       <h2>Education</h2>
       <div className="section-content">
@@ -13,6 +17,8 @@ const Education = () => {
         </div>
       </div>
     </section>
+    
+
   );
 };
 
